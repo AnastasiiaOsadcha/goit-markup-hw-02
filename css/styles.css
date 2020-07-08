@@ -1,0 +1,100 @@
+body {
+background-color: #FFFFFF;
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+color: #757575;
+}
+.link,
+.web-studio {
+text-decoration: none;
+}
+.link:hover,
+.link:focus {
+color: #2196F3; 
+}
+.list {
+list-style: none;
+}
+.navigation-list-link {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #212121;
+}
+
+.header-mail-link,
+.header-tel-link {
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.modal-btn {
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 1.87;
+}
+.modal-btn:hover,
+.modal-btn:focus {
+background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+color: #FFFFFF;
+}
+.web-studio {
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.19;
+/* identical to box height */
+letter-spacing: 0.03em;
+color: #000000;
+}
+
+.title {
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+/* or 136% */
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.feature-subtitle,
+.description,
+.work-title,
+.team-title,
+.customer-title {
+font-style: normal;
+font-weight: bold;
+line-height: 1.14;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.description {
+text-align: center;
+color: #FFFFFF;
+}
+.feature-subtitle {
+text-transform: uppercase;
+}
+.work-title,
+.team-title,
+.customer-title {
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+}
+.feature-description {
+font-weight: normal;
+line-height: 1.71;
+/* or 171% */
+color: #757575;
+}
